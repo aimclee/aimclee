@@ -2,10 +2,6 @@
 
 <!--
 **aimclee/aimclee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +10,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I worked at LIKELION Vietnam project team(멋쟁이 사자처럼) as an instructor.
+- ✨ My goal is to solve 1 algorithm problem everyday.
+
+
