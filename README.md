@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I worked at LIKELION Vietnam project team(멋쟁이 사자처럼) as an instructor.
+- 🔭 I worked at LIKELION Vietnam project team(멋쟁이 사자처럼 베트남사업부) as an instructor.
 - ✨ My goal is to solve 1 algorithm problem everyday.
 - ⚡ For more information, please visit [my github blog](https://aimclee.github.io) :)
 
