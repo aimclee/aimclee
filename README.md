@@ -13,5 +13,6 @@
 
 - 🔭 I worked at LIKELION Vietnam project team(멋쟁이 사자처럼) as an instructor.
 - ✨ My goal is to solve 1 algorithm problem everyday.
+- ⚡ For more information, please visit [aimclee.github.io], my github blog :)
 
 
