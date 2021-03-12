@@ -24,6 +24,6 @@
 
 <a href="https://aimclee.github.io">
     <img 
-        src="http://img.shields.io/badge/-GitHub%20Blog-black?style=for-the-badge&logo=github&link=https://aimclee.github.io"
+        src="http://img.shields.io/badge/-GitHub%20Blog-42f5ef?style=for-the-badge&logo=github&link=https://aimclee.github.io"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
