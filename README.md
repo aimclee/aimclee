@@ -15,5 +15,6 @@
 - ⚡ For more information, please visit [my github blog](https://aimclee.github.io) :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimclee)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimclee)](https://github.com/anuraghazra/github-readme-stats)
 
 
