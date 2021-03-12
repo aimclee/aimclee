@@ -14,6 +14,6 @@
 - 🔭 I worked at LIKELION Vietnam project team(멋쟁이 사자처럼 베트남사업부) as an instructor.
 - ⚡ For more information, please visit [my github blog](https://aimclee.github.io) :)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimclee)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimclee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimclee&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimclee&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
