@@ -17,8 +17,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimclee&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimclee&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/aimclee">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram&link=https://instagram.com/aimclee/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="http://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=Instagram&link=https://instagram.com/aimclee/" />
 </a>
