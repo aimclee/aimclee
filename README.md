@@ -24,7 +24,7 @@
 
 <a href="https://www.facebook.com/immigration.season">
     <img 
-        src="http://img.shields.io/badge/-Fadebook-3b5998?style=for-the-badge&logo=Facebook&link=https://www.facebook.com/immigration.season" />
+        src="http://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=Facebook&link=https://www.facebook.com/immigration.season" />
 </a>
 
 
