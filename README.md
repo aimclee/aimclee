@@ -34,4 +34,4 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aimclee&repo=python-algorithm-review)](https://github.com/aimclee/python-algorithm-review)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aimclee&repo=python-algorithm-review)](https://github.com/aimclee/python-algorithm-review) -->
