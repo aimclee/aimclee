@@ -30,6 +30,4 @@
         src="http://img.shields.io/badge/-GitHub%20Blog-42f5ef?style=for-the-badge&logo=github&link=https://aimclee.github.io">
 </a> -->
 
-[![Github blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://aimclee.github.io/)](https://aimclee.github.io/)
-
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aimclee&repo=python-algorithm-review)](https://github.com/aimclee/python-algorithm-review) -->
