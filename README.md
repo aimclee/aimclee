@@ -17,17 +17,19 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimclee&hide_border=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimclee&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- 
 <a href="https://www.linkedin.com/in/andy-aimclee/">
     <img 
         src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/andy-aimclee/" /> 
-</a>
-<!-- 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/andy-aimclee/) -->
+</a> -->
 
-<a href="https://aimclee.github.io">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/andy-aimclee/)
+
+<!-- <a href="https://aimclee.github.io">
     <img 
         src="http://img.shields.io/badge/-GitHub%20Blog-42f5ef?style=for-the-badge&logo=github&link=https://aimclee.github.io">
-</a>
+</a> -->
+
+[![Github blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://aimclee.github.io/)](https://aimclee.github.io/)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aimclee&repo=python-algorithm-review)](https://github.com/aimclee/python-algorithm-review) -->
