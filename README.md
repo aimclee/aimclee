@@ -18,7 +18,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimclee&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/andy-aimclee/)
+<a href="https://www.linkedin.com/in/andy-aimclee/">
+    <img 
+        src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/andy-aimclee/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+</a>
+<!-- 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/andy-aimclee/) -->
+
 <a href="https://aimclee.github.io">
     <img 
         src="http://img.shields.io/badge/-GitHub%20Blog-42f5ef?style=for-the-badge&logo=github&link=https://aimclee.github.io"
