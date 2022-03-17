@@ -16,14 +16,14 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimclee&hide_border=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimclee&layout=compact&hide_border=true&exclude_repo=bgp_1,bgp_2,aws_deploy,backup_for_bgp_1,ilovecat-javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimclee&layout=compact&hide_border=true&exclude_repo=bgp_1,bgp_2,aws_deploy,backup_for_bgp_1,woohyeonjo/ilovecat-javascript)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 <a href="https://www.linkedin.com/in/andy-aimclee/">
     <img 
         src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/andy-aimclee/" /> 
 </a> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/andy-aimclee/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-aimclee/)](https://www.linkedin.com/in/andy-aimclee/)
 
 <!-- <a href="https://aimclee.github.io">
     <img 
