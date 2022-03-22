@@ -23,9 +23,9 @@
         src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/andy-aimclee/" /> 
 </a> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-aimclee/)](https://www.linkedin.com/in/andy-aimclee/)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aimclee&repo=aimclee.github.io)](https://github.com/aimclee/aimclee.github.io)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-aimclee/)](https://www.linkedin.com/in/andy-aimclee/)
 
 <!-- <a href="https://aimclee.github.io">
     <img 
