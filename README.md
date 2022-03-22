@@ -25,6 +25,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-aimclee/)](https://www.linkedin.com/in/andy-aimclee/)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aimclee&repo=github-readme-stats)](https://github.com/aimclee/github-readme-stats)
+
 <!-- <a href="https://aimclee.github.io">
     <img 
         src="http://img.shields.io/badge/-GitHub%20Blog-42f5ef?style=for-the-badge&logo=github&link=https://aimclee.github.io">
