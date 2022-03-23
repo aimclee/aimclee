@@ -16,7 +16,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimclee&hide_border=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimclee&layout=compact&hide_border=true&exclude_repo=bgp_1,bgp_2,aws_deploy,backup_for_bgp_1,woohyeonjo/ilovecat-javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimclee&layout=compact&hide_border=true&exclude_repo=bgp_1,bgp_2,aws_deploy,backup_for_bgp_1,woohyeonjo/ilovecat-javascript&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 <a href="https://www.linkedin.com/in/andy-aimclee/">
     <img 
