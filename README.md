@@ -18,8 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimclee&layout=compact&hide_border=true&exclude_repo=vn-corona-server,bgp_1,bgp_2,aws_deploy,backup_for_bgp_1,woohyeonjo/ilovecat-javascript&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
+[!Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-aimclee/)](https://www.linkedin.com/in/andy-aimclee/)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aimclee&repo=aimclee.github.io)](https://github.com/aimclee/aimclee.github.io) --!>
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-aimclee/)](https://www.linkedin.com/in/andy-aimclee/)
---!>
+[!Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andy-aimclee/)](https://www.linkedin.com/in/andy-aimclee/)
